@@ -46,11 +46,11 @@
                             <div class="modal-body">
                                 <div class="mb-3">
                                     <label class="form-label">Site Title</label>
-                                    <input type="text" name="site_title" id="site_title_inp" class="form-control shadow-none">
+                                    <input type="text" name="site_title" id="site_title_inp" class="form-control shadow-none" required>
                                 </div>
                                 <div class="mb-3">
                                     <label class="form-label">About Us</label>
-                                    <textarea name="site_about" id="site_about_inp" class="form-control shadow-none" rows="6"></textarea>
+                                    <textarea name="site_about" id="site_about_inp" class="form-control shadow-none" rows="6" required></textarea>
                                 </div>
                             </div>
                                 <div class="modal-footer">
