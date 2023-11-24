@@ -1,2 +1,4 @@
 # BCSL-064
-## this project title is e-reservation of tourist package and based on to book the tour and travel
+## The title of the project is e-reservation of tourist package.
+-It based on tour and travel and travel packages.
+
